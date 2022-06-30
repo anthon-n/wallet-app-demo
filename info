@@ -1,0 +1,5 @@
+How to run the app without NULL Safety
+
+1. Go the the app's location in the terminal
+2. run this: flutter run --no-sound-null-safety
+3. choose the device
